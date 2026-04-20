@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 124800 62400" fill="#fff">
+	<title>Hybrid flag of Canada and the United States</title>
+	<defs>
+		<pattern patternUnits="userSpaceOnUse" width="494" height="420" id="s">
+			<path fill="#fff" d="m247 90 70.5 217.1-184.6-134.2h228.2L176.5 307.1z"/>
+		</pattern>
+	</defs>
+	<g transform="scale(16)">
+		<path d="m0 0h7800v3900H0z"/>
+		<path stroke="#b31942" stroke-width="7800" stroke-dasharray="300" d="m3900 0v3900"/>
+		<path fill="#0a3161" d="m0 0h2964v2100H0z"/>
+		<g fill="url(#s)">
+			<path d="m0 0h2964v2100H0z"/>
+			<path transform="translate(247,210)" d="m0 0h2470v1680H0z"/>
+		</g>
+	</g>
+	<g transform="scale(13)">
+		<path d="m7200 1200 1800 1800-1800 1800H2400l-500-400 500-800 1200-600h1200l1192-1196z"/>
+		<path fill="#d52b1e" d="m9600 0v4800H7200V1200zM2400 3600v1200H0zm2310 830 45-863a95 95 0 0 0-111-98l-859 151 116-320a65 65 0 0 0-20-73l-281-227 2392-1196a65 65 0 0 0 66 26l542-115-186 572a65 65 0 0 0 34 79l212 99-941 762a65 65 0 0 0-20 73l116 320-859-151a95 95 0 0 0-111 98l45 863z"/>
+	</g>
+</svg>
